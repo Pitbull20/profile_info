@@ -2,7 +2,7 @@
 
 1. Клонуйте репозиторій за допомогою команди:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Pitbull20/profile_info.git
 
 2. Встановіть залежності увійшовши в кожну папку і прописавши yarn install
 
